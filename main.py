@@ -6,3 +6,5 @@ for i in range(number):
 
 
 print("test")c
+
+#mer kenh ot
